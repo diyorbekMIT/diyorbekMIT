@@ -23,22 +23,6 @@ I build practical web applications, backend APIs, and workflow automations. My c
 | Tools | Git, Linux, Docker, Maven, npm, IntelliJ IDEA, VS Code |
 | Automation | n8n, LLM APIs, AI workflow integrations |
 
-## Featured Projects
-
-### RSS Feed Aggregation CLI
-**Node.js · TypeScript · PostgreSQL · Drizzle ORM**
-
-A command-line application for collecting, managing, and filtering RSS feeds.
-
-### Job Portal
-**Full-Stack Web Application**
-
-A platform project focused on practical business workflows and web application development.
-
-### Book Store
-**TypeScript**
-
-A web application project for exploring application structure and frontend development patterns.
 
 ## Current Focus
 
